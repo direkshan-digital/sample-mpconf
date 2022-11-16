@@ -108,7 +108,7 @@
         <version.el>2.2</version.el>
         <version.junit>4.12</version.junit>
         <version.jsonunit>1.12.1</version.jsonunit>
-        <version.jackson>2.8.2</version.jackson>
+        <version.jackson>2.12.7.1</version.jackson>
 
         <!-- App servers -->
         <version.liberty>17.0.0.3-RC</version.liberty>
